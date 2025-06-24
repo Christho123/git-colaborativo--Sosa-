@@ -1,3 +1,0 @@
-1. Aprender React y Docker.
-2. Subir proyectos a GitHub y crear portafolio.
-3. Leer un libro técnico al mes.
